@@ -1,5 +1,8 @@
 READ FUCKING README
 
+you need git
+FUCK
+
 
 
 
